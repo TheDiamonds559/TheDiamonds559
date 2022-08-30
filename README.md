@@ -1,6 +1,5 @@
-### Hi there 👋
-
-I'm currently working on me.
+Welcome to my Github.
+This is where I'll dump any project I want saved.
 <!--
 **TheDiamonds559/TheDiamonds559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
