@@ -1,4 +1,4 @@
-Version control huh?
+Version control, huh?
 <!--
 **TheDiamonds559/TheDiamonds559** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
